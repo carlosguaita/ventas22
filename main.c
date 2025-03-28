@@ -90,7 +90,7 @@ int main() {
                 break;
 
             case 6:
-                printf("Saliendo del programa...\n");
+                printf("Saliendo del programa, tenga un buen dia\n");
                 break;
 
             default:
